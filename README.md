@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caden, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Caden, an <a href="https://linkedin.com/in/caden-wright-02a971339">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
